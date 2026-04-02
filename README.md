@@ -1,4 +1,4 @@
-# 🐇 CTF First Steps . ݁₊
+# 🐇 CTF First Steps ₊˚
 My write-ups of CTF challenges and TryHackMe rooms I’ve completed, showing how I approach problems and figure things out step by step :D
 
 # Flagged ( write-ups )
